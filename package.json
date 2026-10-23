@@ -1,0 +1,15 @@
+{
+  "name": "aed1-pizza-kiosk",
+  "version": "1.0.0",
+  "description": "Clickable kiosk prototype for the 'Get a second pizza for AED 1' offer journey",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
